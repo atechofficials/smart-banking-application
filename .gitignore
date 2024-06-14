@@ -1,0 +1,43 @@
+# Ignore Python Cache
+__pycache__/
+
+# Ignore Environment Variables File
+*.env
+
+# Ignore Python Virtual Environment directory
+smartbankvenv/
+
+# Ignore the Project database files
+*.db
+*.xls
+
+# Ignore Google Gmail API Credentials and other related files
+credentials.json
+token.pickle
+
+# Ignore Project GUI Screenshots directory
+Screenshots/
+
+# Ignore all Project FlowChart and diagram files (drawio)
+*.drawio
+Diagrams/
+
+# Ignore Test/Demo Python Programs
+bank_gmail_outh.py
+bank_mqtt.py
+bank_rfid_2.py
+bank_serial.py
+bank_sqlite.py
+mqtt_credentials.py
+mqtt_publish_test.py
+RFID_EM18_Test_1.py
+RFID_EM18_Test.py
+rfid_functions_list.py
+rfid_reader.py
+rfid_uart_test.py
+sqlite_demo.py
+tkinter_image_test.py
+
+# Ignore Project Resources text files 
+# (All the project resources/useful links are mentioned in README.md file)
+Project_Useful_Link.txt
